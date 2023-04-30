@@ -7,7 +7,7 @@
   text-align: center;
   height: 100%;
   padding: 10px;
-  background-color: #282c34;
+  background-color: #ffffff;
 }
 
 .App-logo {
@@ -16,9 +16,9 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  /* .App-logo {
     animation: App-logo-spin infinite 20s linear;
-  }
+  } */
 }
 
 .App-header {
